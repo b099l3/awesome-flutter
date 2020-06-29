@@ -543,6 +543,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) [79⭐] - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo).
 - [Tetris](https://github.com/boyan01/flutter-tetris) [896⭐] - Tetris game by [YangBin](https://github.com/boyan01).
 - [Party Charades](https://github.com/vintage/party_flutter) [125⭐] - Party charades by [Kamil Rykowski](https://github.com/vintage).
+- [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) [5⭐] - Ghost Rigger is a cyberpunk inspired puzzle game by [Iain Smith](https://github.com/b099l3) and [Julio Ernesto Rodríguez Cabañas](https://https://github.com/ernestoyaquello).
 
 #### Lists
 
